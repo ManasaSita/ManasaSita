@@ -22,6 +22,6 @@ Welcome to my GitHub—where code, chaos, and caffeine collide! ☕💻
 - 🐱 More commits at night because daylight debugging is overrated  
 
 ### 🚀 Let's Connect!  
-💼 LinkedIn: [linkedin.com/in/manasa-r-935695188/](#)  
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/manasa-r-935695188/)  
 ✉️ Email: maanumns04@gmail.com  
 
