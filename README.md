@@ -6,7 +6,7 @@ Welcome to my GitHub—where code, chaos, and caffeine collide! ☕💻
 - 🧑‍💻 Full Stack Developer (MERN) | JavaScript Enthusiast  
 - 🎨 Frontend Fanatic (React, TailwindCSS, Bootstrap, and a sprinkle of Custom CSS)  
 - 🛠️ Backend Tinkerer (Node.js, Express, MongoDB)  
-- 🔍 Currently fixing my **Weather Forecast App** (because weather predictions should be more reliable than my code on the first try!)  
+- 🔍 Currently working on **Social Media Analytics Dashboard** (because tracking social media trends is cooler than doomscrolling!)  
 - 🌱 Exploring new opportunities and learning **TailwindCSS & Bootstrap**  
 - 🏆 Mission: **Write clean code, break things, fix them, repeat!**  
 
